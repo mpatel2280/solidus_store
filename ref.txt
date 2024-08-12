@@ -1,0 +1,8 @@
+https://github.com/solidusio
+https://solidus.io/
+https://guides.solidus.io/
+https://guides.solidus.io/getting-started/installing-solidus
+
+
+http://localhost:3000/
+Default username: admin@example.com and password: test123
